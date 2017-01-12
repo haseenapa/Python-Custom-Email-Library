@@ -1,0 +1,1 @@
+from Mailer.SendMail import SendMail 
